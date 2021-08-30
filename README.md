@@ -9,8 +9,8 @@ Skills: Node JS / REACT / JS / HTML / Java / sql
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayantha-p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayantha-pushpakumara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jayantha.pushpakumara.35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7702634)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantha-p&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantha-p&show_icons=true&theme=react&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayantha-p&theme=react)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayantha-p)  
 
 ![Profile views](https://gpvc.arturio.dev/jayantha-p)  
