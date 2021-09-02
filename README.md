@@ -5,6 +5,8 @@ I'm a software engineer who constantly seeks out innovative solutions to everyda
 Skills: Node JS / REACT / JS / HTML / Java / sql
 
 - 🔭 I’m currently working on [saks global](https://www.saks.global/) 
+- 📧 Reach me on jayanthapkumara.jpk@gmail.com or jayantha.14@itfac.mrt.ac.lk
+- 📱 +94 702330110
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayantha-p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayantha-pushpakumara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jayantha.pushpakumara.35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7702634)  
